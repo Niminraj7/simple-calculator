@@ -91,7 +91,7 @@ int main(){
             scanf("%lf",&a);
             printf("Enter the divisor: ");
             scanf("%lf",&b);
-            printf("\nThe reminder after we divide %lf by %lf, we get: %lff",a,b,modulo(a,b));
+            printf("\nThe reminder after we divide %lf by %lf is: %lf",a,b,modulo(a,b));
             break;
 
             case 6:
