@@ -1,4 +1,5 @@
 # simple-calculator
 
-![simple_calculator](https://github.com/user-attachments/assets/e9474e9a-0212-497a-91ff-3b16e1d7f377)
+![simpleCalculator](https://github.com/user-attachments/assets/705f7366-5c29-416b-9d0e-719af0d07148)
+
 
